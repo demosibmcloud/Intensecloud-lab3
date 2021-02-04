@@ -116,8 +116,8 @@ El tiempo estimado para completar el tutorial es de 60 a 90 minutos.
 1. Configuración de Schematics
 
     - Dentro de workspace de schematics, seleccionamos la pestaña Valores
-    - Ingresamos la siguiente URL (contiene plantilla terraform)
-    - Seleccionamos la versión 12 de terraform
+    - Ingresamos la URL de nuestro repositorio github.
+    - Seleccionamos la versión 13 de terraform
     - Dar click en el boton *Guardar Información de plantilla*.
     - <img src="images/configschematics.gif" width="400" height="300">
 
@@ -318,6 +318,7 @@ El tiempo estimado para completar el tutorial es de 60 a 90 minutos.
     - Seleccionar el repositorio donde se encuentra la carpeta .tekton
     - Seleccionar la rama main
     - Dar click en el boton añadir
+    - Ingresar a cada pestaña, seleccionar la opción por defecto y dar click en guardar.
     - <img src="images/configdeliverypipeline.gif" width="400" height="300">
 
 #### **Resumen**
